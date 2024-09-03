@@ -1,4 +1,3 @@
-import { Outdent } from "lucide-react";
 import { Outlet } from "react-router-dom";
 import AdminSideBar from "./SideBar";
 import AdminHeader from "./Header";
